@@ -1,0 +1,22 @@
+{
+  "name": "time",
+  "version": "1.0.0",
+  "description": "A simple date and time library",
+  "main": "index.js",
+  "scripts": {
+    "js": "rollup --config"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prerna2405/javascript-library-template.git"
+  },
+  "author": "Prerna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prerna2405/javascript-library-template/issues"
+  },
+  "homepage": "https://github.com/prerna2405/javascript-library-template#readme",
+  "devDependencies": {
+    "rollup": "^2.79.0"
+  }
+}
